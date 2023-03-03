@@ -1,0 +1,27 @@
+@import url(<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Golos+Text&family=Tilt+Neon&display=swap" rel="stylesheet">);
+
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Golos Text', sans-serif;
+	font-size:18px;
+	margin:0px;
+	font-weight: bolder;
+
+}
+
+h1,h2,h3 {
+	font-family: 'Tilt Neon', cursive;
+	font-weight:bold;
+}
+
+a {
+	text-decoration: none;
+}
+

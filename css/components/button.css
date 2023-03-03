@@ -1,0 +1,9 @@
+.btn-blue {
+	background-color: #5384E7;
+	padding:15px 20px;
+	border-radius: 5px;
+	color:white;
+	font-weight:bolder;
+	font-family: 'Tilt Neon', cursive;
+	margin: 15px;
+}
